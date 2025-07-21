@@ -11,11 +11,18 @@
 
 ## 🧑‍💻 About Me
 
-Senior Computer Vision & Machine Learning Engineer focusing on **Document OCR/KIE**, **Face Recognition**, and **Anti-Spoofing Detection**.  
-Experienced across the full stack from **Model Design (CNN / Transformer / ViT)** to **MLOps (ONNX Runtime, Docker, CI/CD)**.  
-I also self-host and maintain a technical blog and research note platform using React + FastAPI + Nginx, demonstrating solid DevOps and full-stack capabilities.
+I am a Senior Computer Vision & Machine Learning Engineer, with deep expertise in both vision and language domains.  
+My key strengths include end-to-end development, infrastructure design, and cross-functional deployment.
 
-> 📂 Most of my professional work is maintained under the [**DocsaidLab organization**](https://github.com/DocsaidLab). This profile hosts my personal repositories only.
+- Specializing in **Document OCR/KIE**, **Face Recognition**, and **Face Anti-Spoofing Detection**
+- Experienced in **model design and training**, including CNN, Transformer, ViT, and self-supervised learning
+- Proficient in **MLOps workflows**, including ONNX Runtime, quantization (PTQ/QAT), Docker, and CI/CD
+- Self-hosting a full-stack **technical blog and research note platform** using React, FastAPI, and Nginx
+- Demonstrates strong capabilities in Linux system administration and DevOps practices
+
+> 📂 Most of my professional work is maintained under the [**DocsaidLab organization**](https://github.com/DocsaidLab).
+> 
+> This profile contains only personal repositories and prototypes.
 
 ---
 
@@ -23,44 +30,37 @@ I also self-host and maintain a technical blog and research note platform using 
 
 | Stack | Proficiency | Notes |
 | --- | --- | --- |
-| **Python / PyTorch** | Expert | CNN, Transformer, ViT, Self-Supervised |
-| **CV & Deep Learning** | Expert | OCR, KIE, Face Recognition, FAS |
-| **ONNX Runtime / PTQ / QAT** | Proficient | Inference acceleration, model quantization |
-| **Docker / Docker Compose** | Proficient | Private server deployment |
-| **FastAPI / RESTful API** | Proficient | eKYC service integration |
-| **Nginx / Linux DevOps** | Proficient | HTTPS, reverse proxy, CI/CD |
-| **Docusaurus (React)** | Proficient | Multi-language technical blogs & docs |
+| **Python / PyTorch** | Expert | Model training, CNN, Transformer, ViT, SSL |
+| **Computer Vision & Deep Learning** | Expert | OCR, KIE, Face Recognition, Anti-Spoofing |
+| **ONNX Runtime / PTQ / QAT** | Proficient | Inference optimization & quantization |
+| **Docker / Docker Compose** | Proficient | Containerization & private deployment |
+| **FastAPI / RESTful API** | Proficient | Lightweight backend & eKYC integration |
+| **Nginx / Linux DevOps** | Proficient | HTTPS, reverse proxy, CI/CD automation |
+| **Docusaurus (React)** | Proficient | Multilingual docs & blog framework |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| --- | --- |
-| **DocAligner** | Document corner detector with SoTA performance |
-| **MRZScanner** | MRZ region detection for ID/passport parsing |
-| **Capybara** | CV inference & batch processing CLI tool |
-| **Chameleon** | Lightweight PyTorch training framework |
-| **WordCanvas** | Text-to-image synthetic data generator |
+### Deep Learning
+- [**DocAligner**](https://docsaid.org/en/docs/docaligner): Detects document corners for alignment.  
+- [**DocClassifier**](https://docsaid.org/en/docs/docclassifier): Document image classification pipeline.  
+- [**MRZScanner**](https://docsaid.org/en/docs/mrzscanner): Finds MRZ regions on ID/passport images.  
+
+### Tools & Integrations
+- [**AutoTraderX**](https://docsaid.org/en/docs/autotraderx): Integration experiments with Taiwan brokerage APIs.  
+- [**Capybara**](https://docsaid.org/en/docs/capybara): CV toolkit for batch inference and utilities.  
+- [**GmailSummary**](https://docsaid.org/en/docs/gmailsummary): Gmail ⇄ OpenAI summarizer (archived).  
+- [**Nginx Notes**](https://docsaid.org/en/docs/nginx-notes): Handy Nginx configs & tips.  
+- [**WordCanvas**](https://docsaid.org/en/docs/wordcanvas): Synthetic font‑to‑image data generator.  
 
 ---
 
-## 📚 Research Notes (240+)
+## 📚 Research Notes (230+)
 
 Covers topics like ViT, OCR, Multimodal Learning, Self-Supervised Methods, and more.
 
 - 🧾 Browse all notes: <https://docsaid.org/en/papers/intro>
-
----
-
-## 📊 GitHub Stats
-
-> 📌 Stats below reflect only this personal account. Main contributions are under [DocsaidLab](https://github.com/DocsaidLab).
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zephyr-sh&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyr-sh&layout=compact&theme=tokyonight" height="170">
-</p>
 
 ---
 
@@ -69,8 +69,4 @@ Covers topics like ViT, OCR, Multimodal Learning, Self-Supervised Methods, and m
 - 📧 [shaynling@gmail.com](mailto:shaynling@gmail.com)   
 - 🔗 [LinkedIn @ ze‑yuan‑sh7](https://www.linkedin.com/in/ze-yuan-sh7)
 
----
-
 👍 Follow me on [Facebook Fan Page](https://www.facebook.com/profile.php?id=61574315987805) for updates on computer vision, AI papers, and project insights.
-
-> ❝ When a text is created, it has already finished what it came to say; our job is to listen, analyze, and deconstruct. ❞

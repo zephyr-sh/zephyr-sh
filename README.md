@@ -35,8 +35,6 @@ My key strengths include end-to-end development, infrastructure design, and cros
 | **ONNX Runtime / PTQ / QAT** | Proficient | Inference optimization & quantization |
 | **Docker / Docker Compose** | Proficient | Containerization & private deployment |
 | **FastAPI / RESTful API** | Proficient | Lightweight backend & eKYC integration |
-| **Nginx / Linux DevOps** | Proficient | HTTPS, reverse proxy, CI/CD automation |
-| **Docusaurus (React)** | Proficient | Multilingual docs & blog framework |
 
 ---
 
@@ -44,19 +42,12 @@ My key strengths include end-to-end development, infrastructure design, and cros
 
 ### Deep Learning
 - [**DocAligner**](https://docsaid.org/en/docs/docaligner): Detects document corners for alignment.  
-- [**DocClassifier**](https://docsaid.org/en/docs/docclassifier): Document image classification pipeline.  
 - [**MRZScanner**](https://docsaid.org/en/docs/mrzscanner): Finds MRZ regions on ID/passport images.  
-
-### Tools & Integrations
-- [**AutoTraderX**](https://docsaid.org/en/docs/autotraderx): Integration experiments with Taiwan brokerage APIs.  
 - [**Capybara**](https://docsaid.org/en/docs/capybara): CV toolkit for batch inference and utilities.  
-- [**GmailSummary**](https://docsaid.org/en/docs/gmailsummary): Gmail ⇄ OpenAI summarizer (archived).  
-- [**Nginx Notes**](https://docsaid.org/en/docs/nginx-notes): Handy Nginx configs & tips.  
-- [**WordCanvas**](https://docsaid.org/en/docs/wordcanvas): Synthetic font‑to‑image data generator.  
 
 ---
 
-## 📚 Research Notes (230+)
+## 📚 Research Notes (240+)
 
 Covers topics like ViT, OCR, Multimodal Learning, Self-Supervised Methods, and more.
 
@@ -68,5 +59,3 @@ Covers topics like ViT, OCR, Multimodal Learning, Self-Supervised Methods, and m
 
 - 📧 [shaynling@gmail.com](mailto:shaynling@gmail.com)   
 - 🔗 [LinkedIn @ ze‑yuan‑sh7](https://www.linkedin.com/in/ze-yuan-sh7)
-
-👍 Follow me on [Facebook Fan Page](https://www.facebook.com/profile.php?id=61574315987805) for updates on computer vision, AI papers, and project insights.
